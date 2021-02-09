@@ -55,14 +55,11 @@ font-weight: 300;
 @media (max-width: 767px){
     body{
         padding: 5px;
-        margin-bottom: 50px;
+        margin-bottom: 30px;
         }
-    /* .container{
-        /* margin: 30px; */
-        /* }  */
     .container .card{
-        min-height: 250px;
-        min-width: 200px;
+        min-height: 260px;
+        min-width: 210px;
         margin: 5px;
     }
     .container .card .content h3{
