@@ -52,6 +52,14 @@ font-size: 1.4em;
 color: #fff;
 font-weight: 300;
 }
+li{
+color: #fff;
+font-size: 1.4em;
+}
+li:hover{
+background: #ff5500;
+color: #fff;
+}
 @media (max-width: 767px){
     body{
         padding: 5px;
