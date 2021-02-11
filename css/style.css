@@ -55,6 +55,7 @@ font-weight: 300;
 li{
 color: #fff;
 font-size: 1.4em;
+list-style: none;
 }
 li:hover{
 background: #ff5500;
